@@ -100,4 +100,4 @@ Você pode baixar a versão mais recente da **Orange Calculator** clicando no li
 
 ## Screenshot
 
-![Captura de Tela](https://github.com/eusouanderson/orange_calculator/screenshot.png)
+![Captura de Tela](https://github.com/eusouanderson/orange_calculator/blob/main/screenshot.png)
