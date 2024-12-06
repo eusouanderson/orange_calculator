@@ -60,7 +60,7 @@ Esta é a classe principal do projeto que estende `QMainWindow` do PySide6. Ela 
 - **Tangente (`tan`)**: Calculado em graus e convertido para radianos internamente.
 
 ### Operações com Parênteses
-
+Ainda estou trabalhando nisso !
 A calculadora suporta o uso de parênteses para definir a ordem de operações, permitindo expressões como `(2 + 3) * 5`.
 
 ---
