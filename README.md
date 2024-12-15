@@ -96,7 +96,7 @@ Esse tratamento de erro é útil para guiar o usuário a inserir as expressões 
 
 Você pode baixar a versão mais recente da **Orange Calculator** clicando no link abaixo:
 
-[Download Orange Calculator v1.0](https://github.com/eusouanderson/orange_calculator/releases/download/v1.0/Orange.Calculator.exe)
+[Download Orange Calculator v1.0](https://github.com/eusouanderson/orange_calculator/releases)
 
 ## Screenshot
 
